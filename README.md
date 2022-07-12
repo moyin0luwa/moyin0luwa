@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)
-<h1 align="center">Hola 👋, I'm MOYINOLUWALOGO OLADIPO</h1>
+<h1 align="center">Hello :earth_africa:, I'm MOYINOLUWALOGO OLADIPO</h1>
 <h3 align="center">DATA SCIENTIST | BACKEND WEB DEVELOPER | PROGRAMMER | MACHINE LEARNING ENTHUSIAST</h3>
 
 - 🌱 I’m currently learning **NodeJS BackEnd dev, Data Science, ML Research**
@@ -10,11 +10,7 @@
 
 - 📫 How to reach me **m.oladips@gmail.com**
 
-- ⚡ Fun fact **I love music**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I love Anime, Music and Gaming :computer:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
