@@ -1,5 +1,4 @@
-
-[![MasterHead](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)]
+![MasterHead](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)
 <h1 align="center">Hola 👋, I'm MOYINOLUWALOGO OLADIPO</h1>
 <h3 align="center">DATA SCIENTIST | BACKEND WEB DEVELOPER | PROGRAMMER | MACHINE LEARNING ENTHUSIAST</h3>
 
@@ -19,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/moyin0luwa.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Moyin0luwa" height="30" width="40" /></a>
+<a href="https://twitter.com/moyin0luwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moyin0luwa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/moyinoluwalogo-oladipo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moyinoluwalogo-oladipo" height="30" width="40" /></a>
 <a href="https://medium.com/@moyinoluwalogooladipo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moyinoluwalogooladipo" height="30" width="40" /></a>
 </p>
