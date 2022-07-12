@@ -2,7 +2,7 @@
 ![MasterHead](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm MOYINOLUWALOGO OLADIPO</h1>
 <h3 align="center">DATA SCIENTIST | BACKEND WEBDEVELOPER | PYTHON PROGRAMMER WELL VERSED IN JAVA AND JAVASCRIPT | MACHINE LEARNING ENTHUSIAST</h3>
-<img align="right" alt="Coding" width="400" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg">
+<img align="center" alt="Coding" width="4000" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moyin0luwa&label=Profile%20views&color=0e75b6&style=flat" alt="moyin0luwa" /> </p>
 
