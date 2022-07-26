@@ -1,14 +1,14 @@
 ![MasterHead](https://raw.githubusercontent.com/smohata/smohata/master/resources/banner.png)
 <h1 align="center">Hello :earth_africa:, I'm MOYINOLUWALOGO OLADIPO</h1>
-<h3 align="center">DATA SCIENTIST | BACKEND WEB DEVELOPER | PROGRAMMER | MACHINE LEARNING ENTHUSIAST</h3>
+<h3 align="center">DATA SCIENTIST | BACKEND WEB DEVELOPER | MACHINE LEARNING ENTHUSIAST</h3>
 
-- 🌱 I’m currently learning **NodeJS BackEnd dev, Data Science, ML Research**
+- 🌱 I’m currently working on Projrcts in **NodeJS BackEnd dev, Data Science, ML Research**
 
 - 📝 I regularly write articles on [https://medium.com/@MoyinoluwalogoOladipo](https://medium.com/@MoyinoluwalogoOladipo)
 
-- 💬 Ask me about **Tensorflow, Node JS, Machine Learning**
+- 💬 Ask me about **Tensorflow, Node JS, Machine Learning, Data Science**
 
-- 📫 How to reach me **m.oladips@gmail.com**
+- 📫 How to reach me **moyin.oladipo@gmail.com**
 
 - ⚡ Fun fact **I love Anime, Music and Gaming :computer:**
 
